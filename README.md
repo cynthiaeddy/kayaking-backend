@@ -1,24 +1,26 @@
-# README
+## Come On Kayak 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This App has two Github Repositories. This one is for the React-Redux frontend. The other one is for the Rails API backend (link below in instructions).
 
-Things you may want to cover:
+You can use this app to view upcoming or past trips and make new ones. You can also comment on trips. There's a dictionary for common kayak lingo.
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
 
-* Database creation
+## Instructions
 
-* Database initialization
+To run this app:
 
-* How to run the test suite
+PART ONE
 
-* Services (job queues, cache servers, search engines, etc.)
+Clone this repo, then run 'bundle install'.
 
-* Deployment instructions
+Run rails db:create, rails db:migrate and rails db:seed to seed the database.
 
-* ...
+After the database is set up, run 'rails s' in terminal to start the rails server.
+
+PART TWO
+
+Go to https://github.com/zoey7117/kayaking_frontend and follow the instructions to run the Come On Kayak front end. 
+
+
