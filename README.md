@@ -1,6 +1,6 @@
 ## Come On Kayak 
 
-This App has two Github Repositories. This one is for the React-Redux frontend. The other one is for the Rails API backend (link below in instructions).
+This App has two Github Repositories. This one is for the Rails API backend. The other one is for the React-Redux frontend (link below in instructions).
 
 You can use this app to view upcoming or past trips and make new ones. You can also comment on trips. There's a dictionary for common kayak lingo.
 
@@ -21,6 +21,6 @@ After the database is set up, run 'rails s' in terminal to start the rails serve
 
 PART TWO
 
-Go to https://github.com/zoey7117/kayaking_frontend and follow the instructions to run the Come On Kayak front end. 
+Go to https://github.com/zoey7117/kayaking_frontend and follow the instructions to run the Come On Kayak frontend. 
 
 
