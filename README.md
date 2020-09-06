@@ -25,4 +25,9 @@ PART TWO
 
 Go to https://github.com/cynthiaeddy/kayaking_frontend and follow the instructions to run the Come On Kayak frontend. 
 
+## Built with
+
+• Rails 
+
+
 
