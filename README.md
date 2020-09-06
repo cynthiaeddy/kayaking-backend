@@ -23,6 +23,6 @@ After the database is set up, run 'rails s' in terminal to start the rails serve
 
 PART TWO
 
-Go to https://github.com/zoey7117/kayaking_frontend and follow the instructions to run the Come On Kayak frontend. 
+Go to https://github.com/cynthiaeddy/kayaking_frontend and follow the instructions to run the Come On Kayak frontend. 
 
 
