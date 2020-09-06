@@ -27,7 +27,8 @@ Go to https://github.com/cynthiaeddy/kayaking_frontend and follow the instructio
 
 ## Built with
 
-• Rails 
+• Rails </br>
+• Deployed with Heroku
 
 
 
